@@ -57,5 +57,5 @@ Installing via pip:
 pip install tk
 ```
 ## Results
-<img width="500" src="./3.png"> 
+<img width="500" src="./3.PNG"> 
 
