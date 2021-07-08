@@ -34,3 +34,27 @@ Python-tesseract is an optical character recognition (OCR) tool for python. That
 Python-tsesseract is a wrapper for [Google's Tesseract-OCR Engine](https://github.com/tesseract-ocr/tesseract).
 
 ### Python-tesseract Installation
+Prerequisites:
+* Download Tesseract from [Google Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+
+Installing via pip:
+```bash
+pip install pytesseract
+```
+
+### Running Tesseract
+Putting tesseract in the python code:
+```bash
+pytesseract.pytesseract.tesseract_cmd=r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
+```
+
+## Interface
+Perequisites:
+* Python and pip is preinstalled in system.
+
+Installing via pip:
+```bash
+pip install tk
+```
+## Results
+
