@@ -26,4 +26,4 @@ data/images
 Results saved to runs\detect\exp2
 Done. (1.589s)
 ```
-
+<img width="500" src="./2.png"> 
