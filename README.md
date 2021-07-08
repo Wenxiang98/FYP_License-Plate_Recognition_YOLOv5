@@ -10,7 +10,7 @@ $ pip install -r requirements.txt
 ## Environments
 I run the YOLOv5 training model in the Google Colab notebooks with free GPU <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> with all the dependecies such as [Python](https://www.python.org/) and [PyTorch](https://pytorch.org/) is preinstalled.  
 
-## Inference
+## License Plate Detection
 After getting the model from the CNN Network YOLOv5, `detect.py` runs inference on a variety of sources.
 
 ```bash
@@ -27,3 +27,10 @@ Results saved to runs\detect\exp2
 Done. (1.589s)
 ```
 <img width="500" src="./2.png"> 
+
+## License Plate Recognition
+Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images.
+
+Python-tsesseract is a wrapper for [Google's Tesseract-OCR Engine](https://github.com/tesseract-ocr/tesseract).
+
+### Python-tesseract Installation
